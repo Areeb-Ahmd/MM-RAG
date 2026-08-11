@@ -541,7 +541,7 @@ if __name__ == "__main__":
     OUTPUT_DIR = DATA_DIR / "parsed_pdf_output"
 
     TESSERACT_PATH = (
-        r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+        r"D:\Softwares\Tesseract-OCR\tesseract.exe"
     )
 
     parser = ComplexPDFParser(

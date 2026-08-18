@@ -18,7 +18,7 @@ langchain-core==1.5.3
 # Structured application logging
 structlog==26.1.0
 
-langchain-openai
+langchain-google-genai
 langchain-qdrant
 langchain-text-splitters
 qdrant-client
